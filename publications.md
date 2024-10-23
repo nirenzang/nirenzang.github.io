@@ -1,12 +1,12 @@
 ---
 layout: page
+feature_image: "https://picsum.photos/1300/400?image=879"
 title: Selected Publications
 permalink: /publications/
 ---
-
 [Google Scholar](https://scholar.google.com/citations?user=JB1uRvQAAAAJ&hl=en) [DBLP](https://dblp.org/pid/68/6577-3.html) [ORCID](https://orcid.org/0000-0003-2063-1769)
 
-**Security-Performance Tradeoff in DAG-based Proof-of-Work Blockchain Protocols.** Shichen Wu, Puwen Wei*, Ren Zhang*, and Bowen Jiang. NDSS 2024. [[eprint](https://eprint.iacr.org/2023/1089)]  
+**Security-Performance Tradeoff in DAG-based Proof-of-Work Blockchain Protocols.** Shichen Wu, Puwen Wei\*, Ren Zhang\*, and Bowen Jiang. NDSS 2024. [[eprint](https://eprint.iacr.org/2023/1089)]  
 \* corresponding authors  
 Contrary to popular belief, DAG-based protocols, like their chain-based predecessors, are not immune to the security-performance tradeoff.
 
@@ -17,7 +17,7 @@ Zero-knowledge virtual machines (ZKVMs) rely heavily on random-access memory, a 
 \* corresponding author  
 For years, Bitcoin miners put little efforts into adopting several widely-acclaimed block acceleration techniques, which, as some argued, would secure their revenues. Why?
 
-**VOProof: Efficient zkSNARKs from Vector Oracle Compilers.** Yuncong Zhang, Alan Szepieniec, Ren Zhang*, Shi-feng Sun*, Geng Wang, and Dawu Gu*. ACM CCS 2022. [[eprint](https://eprint.iacr.org/2021/710)]  
+**VOProof: Efficient zkSNARKs from Vector Oracle Compilers.** Yuncong Zhang, Alan Szepieniec, Ren Zhang\*, Shi-feng Sun\*, Geng Wang, and Dawu Gu*. ACM CCS 2022. [[eprint](https://eprint.iacr.org/2021/710)]  
 \* corresponding authors  
 We propose a novel workflow for designing and implementing zkSNARKs that conceals most algebraic and cryptographic operations inside the compiler, eliminating the need for designers to grasp these complex and error-prone procedures.
 
@@ -58,6 +58,6 @@ My first attempt to defend against selfish mining by encouraging miners to ignor
 **Censorship-Resistant and Privacy-Preserving Distributed Web Search.** Michael Herrmann, Ren Zhang, Kai-Chun Ning, Claudia Diaz, and Bart Preneel. P2P 2014. [[pdf](https://git.gnunet.org/bibliography.git/plain/docs/DistributedSearch2014Hermann.pdf)]  
 Existing distributed web search engines (Faroo, Seeks, and Yacy) do not offer adequate protection against censorship and de-anonymization attacks. We identify the security properties and design new protocols to achieve them.
 
-**Making Eclipse Attacks Computationally Infeasible in Large-Scale DHTs.** Ren Zhang, Jianyu Zhang, Yu Chen, Nanhao Qin, Bingshuang Liu, and Yuan Zhang. IPCCC 2011. [[pdf](https://nirenzang.com/wp-content/uploads/2024/10/making-eclipse-attacks-computationally-infeasible-in-large-scale-dhts.pdf)]  
+**Making Eclipse Attacks Computationally Infeasible in Large-Scale DHTs.** Ren Zhang, Jianyu Zhang, Yu Chen, Nanhao Qin, Bingshuang Liu, and Yuan Zhang. IPCCC 2011. [[pdf]({{site.baseurl}}/assets/Making-Eclipse-Attacks-Computationally-Infeasible-in-Large-Scale-DHTs.pdf)]  
 By requiring every user to complete a proof-of-work puzzle, the DHT network discourages attackers from monopolizing particular ID ranges, as this would necessitate significant computational resources.  
 *Post-publication note:* This mechanism no longer works. The widespread availability of ASIC mining equipment has rendered PoW an ineffective defense against Sybil attacks. An attacker can easily overwhelm honest nodes by deploying specialized hardware.
