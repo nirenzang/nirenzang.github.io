@@ -6,13 +6,14 @@ permalink: /services/
 ---
 
 ## Program Committee Memberships
-- 2025: [CCS](https://www.sigsac.org/ccs/CCS2025/)
+- 2025: [CCS](https://www.sigsac.org/ccs/CCS2025/), [ICDLT](https://icdlt.ieeepunesection.org/)
 - 2024: [CCS](https://www.sigsac.org/ccs/CCS2024/), [NDSS](https://www.ndss-symposium.org/ndss2024/)
 - 2023: [NDSS](https://www.ndss-symposium.org/ndss2023/), [FC](https://fc23.ifca.ai/)
 - 2022: [NDSS](https://www.ndss-symposium.org/ndss2022/), [FC](https://fc22.ifca.ai/), [ICDCS](https://icdcs2022.icdcs.org/)
 - 2021: [NDSS](https://www.ndss-symposium.org/ndss2021/), [FC](http://fc21.ifca.ai/index.php)
 
 ## External/Journal Reviews
+- 2025: [TNSM](https://www.comsoc.org/publications/journals/ieee-tnsm)
 - 2024: [TOSEM](https://dl.acm.org/journal/tosem)
 - 2021: [PoPETs](https://www.petsymposium.org/)
 - 2020: [Eurocrypt](https://eurocrypt.iacr.org/2020/), [PoPETs](https://www.petsymposium.org/), [TPDS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=71)
