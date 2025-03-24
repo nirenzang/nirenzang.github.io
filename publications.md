@@ -6,6 +6,10 @@ permalink: /publications/
 ---
 [Google Scholar](https://scholar.google.com/citations?user=JB1uRvQAAAAJ&hl=en) [DBLP](https://dblp.org/pid/68/6577-3.html) [ORCID](https://orcid.org/0000-0003-2063-1769)
 
+* **Selfish Mining Time-Averaged Analysis in Bitcoin: Is Orphan Reporting an Effective Countermeasure?** Roozbeh Sarenche, Ren Zhang, Svetla Nikova, and Bart Preneel. [IEEE TIFS](https://dl.acm.org/doi/10.1109/TIFS.2024.3518090). [[eprint](https://eprint.iacr.org/2024/363)]
+
+[Grunspan and Pérez-Marco](https://arxiv.org/abs/1805.08281) argued that a difficulty adjustment mechanism incorporating orphaned blocks would eliminate the profitability of selfish mining in terms of time-averaged revenue. However, we have demonstrated the nontrivial complexity of designing such a protocol.
+
 * **Security-Performance Tradeoff in DAG-based Proof-of-Work Blockchain Protocols.** Shichen Wu, Puwen Wei\*, Ren Zhang\*, and Bowen Jiang. NDSS 2024. [[eprint](https://eprint.iacr.org/2023/1089)]  
 \* corresponding authors
 
