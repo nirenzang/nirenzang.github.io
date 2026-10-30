@@ -6,7 +6,7 @@ permalink: /services/
 ---
 
 ## Program Committee Memberships
-- 2026: [CCS](https://www.sigsac.org/ccs/CCS2026/), [Usenix Security](https://www.usenix.org/conf%C3%A9rence/usenixsecurity26)
+- 2026: [CCS](https://www.sigsac.org/ccs/CCS2026/), [Usenix Security](https://www.usenix.org/conference/usenixsecurity26)
 - 2025: [CCS](https://www.sigsac.org/ccs/CCS2025/), [ICDLT](https://icdlt.ieeepunesection.org/)
 - 2024: [CCS](https://www.sigsac.org/ccs/CCS2024/), [NDSS](https://www.ndss-symposium.org/ndss2024/)
 - 2023: [NDSS](https://www.ndss-symposium.org/ndss2023/), [FC](https://fc23.ifca.ai/)
