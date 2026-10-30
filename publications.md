@@ -11,6 +11,10 @@ Accepted for presentation at the Science of Blockchain Conference 2025, presente
 
 The Ethereum Global Network (EGN) is the peer-to-peer (P2P) network underlying Ethereum and thousands of subsequent blockchain services. Deviating from traditional single-service P2P networks, EGN's multi-service architecture has gained widespread acceptance for supposedly improving node discovery efficiency and security. This paper challenges this belief by critically examining EGN's design and its purported benefits.
 
+* **Solving Data Availability Limitations in Client-Side Validation with UTxO Binding.** Yunwen Liu, Bo Wang, and Ren Zhang. CAAW 2026. [[eprint](https://eprint.iacr.org/2025/569)]
+
+This paper formalizes the RGB++ design. Client-side validation enables Bitcoin tokens but leaves participants vulnerable to data loss and withholding. We securely bind a Bitcoin UTxO to a UTxO on an auxiliary blockchain, achieving robust data availability and enhanced programmability.
+
 * **Selfish Mining Time-Averaged Analysis in Bitcoin: Is Orphan Reporting an Effective Countermeasure?** Roozbeh Sarenche, Ren Zhang, Svetla Nikova, and Bart Preneel. [IEEE TIFS](https://dl.acm.org/doi/10.1109/TIFS.2024.3518090). [[eprint](https://eprint.iacr.org/2024/363)]
 
 [Grunspan and Pérez-Marco](https://arxiv.org/abs/1805.08281) argued that a difficulty adjustment mechanism incorporating orphaned blocks would eliminate the profitability of selfish mining in terms of time-averaged revenue. However, we have demonstrated the nontrivial complexity of designing such a protocol.

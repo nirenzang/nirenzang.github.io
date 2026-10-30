@@ -1,13 +1,13 @@
 ---
 feature_text: |
   # Ren Zhang, 张韧
-  Director of Research @ Cryptape, Researcher @ Nervos
+  Director of Research @ CKB Association
 feature_image: "https://picsum.photos/1300/400?image=302"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 aside: true
 ---
 
-I am a researcher working at [Cryptape](https://cryptape.com/#/home) and [Nervos](https://nervos.org/), exploring the frontiers of cryptocurrencies and blockchain technology. I earned my Ph.D. in 2019 from the [COSIC research group](https://www.esat.kuleuven.be/cosic/) at KU Leuven, Belgium, supervised by [Professor Bart Preneel](http://homes.esat.kuleuven.be/~preneel/). During my doctoral studies, I gained practical experience through an internship at [Blockstream](https://blockstream.com/), where I collaborated with Bitcoin core developers [Pieter Wuille](https://x.com/pwuille) and Gregory Maxwell. Prior to my doctoral work, I completed both a Bachelor's degree in mathematics and a Master's degree in computer science from Peking University, China.
+I am a researcher working at [CKB Association](https://www.ckba.build/) (formed from the reorganization of [Cryptape](https://cryptape.com/#/home) and [Nervos](https://nervos.org/)) exploring the frontiers of cryptocurrencies and blockchain technology. I earned my Ph.D. in 2019 from the [COSIC research group](https://www.esat.kuleuven.be/cosic/) at KU Leuven, Belgium, supervised by [Professor Bart Preneel](http://homes.esat.kuleuven.be/~preneel/). During my doctoral studies, I gained practical experience through an internship at [Blockstream](https://blockstream.com/), where I collaborated with Bitcoin core developers [Pieter Wuille](https://x.com/pwuille) and Gregory Maxwell. Prior to my doctoral work, I completed both a Bachelor's degree in mathematics and a Master's degree in computer science from Peking University, China.
 
 # Awards and Honors
 - 38th position on the Ethereum [Execution Layer Bug Bounty leaderboard](https://ethereum.org/en/bug-bounty/#leaderboard) as a [BlockTrident](https://github.com/BlockTrident) team member, 2024.
