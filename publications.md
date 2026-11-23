@@ -6,15 +6,15 @@ permalink: /publications/
 ---
 [Google Scholar](https://scholar.google.com/citations?user=JB1uRvQAAAAJ&hl=en) [DBLP](https://dblp.org/pid/68/6577-3.html) [ORCID](https://orcid.org/0000-0003-2063-1769)
 
-* **A Place for Everyone vs Everyone in its Place: Measuring and Attacking the Ethereum Global Network.** Chenyu Li, Ren Zhang, and Xiaorui Gong. [[eprint](https://eprint.iacr.org/2025/588)] [[youtube](https://www.youtube.com/watch?v=8XmuQRhScUM)] [[bilibili](https://www.bilibili.com/video/BV1NX4RzSEBo/?spm_id_from=333.1387.homepage.video_card.click&vd_source=b4d10a772adba7121193377a41d4caaf)]  
-Accepted for presentation at the Science of Blockchain Conference 2025, presented by [Lisa Masserova](https://www.andrew.cmu.edu/user/elisawem/). [[youtube](https://www.youtube.com/live/_2gnJjvodws?t=2293)]
-
-The Ethereum Global Network (EGN) is the peer-to-peer (P2P) network underlying Ethereum and thousands of subsequent blockchain services. Deviating from traditional single-service P2P networks, EGN's multi-service architecture has gained widespread acceptance for supposedly improving node discovery efficiency and security. This paper challenges this belief by critically examining EGN's design and its purported benefits.
-
 * **Solving Data Availability Limitations in Client-Side Validation with UTxO Binding.** Yunwen Liu, Bo Wang, and Ren Zhang\*. CAAW 2026. [[eprint](https://eprint.iacr.org/2025/569)]  
 \* corresponding author
 
 This paper formalizes the RGB++ design. Client-side validation enables Bitcoin tokens but leaves participants vulnerable to data loss and withholding. We securely bind a Bitcoin UTxO to a UTxO on an auxiliary blockchain, achieving robust data availability and enhanced programmability.
+
+* **A Place for Everyone vs Everyone in its Place: Measuring and Attacking the Ethereum Global Network.** Chenyu Li, Ren Zhang, and Xiaorui Gong. [[eprint](https://eprint.iacr.org/2025/588)] [[youtube](https://www.youtube.com/watch?v=8XmuQRhScUM)] [[bilibili](https://www.bilibili.com/video/BV1NX4RzSEBo/?spm_id_from=333.1387.homepage.video_card.click&vd_source=b4d10a772adba7121193377a41d4caaf)]  
+Accepted for presentation at the Science of Blockchain Conference 2025, presented by [Lisa Masserova](https://www.andrew.cmu.edu/user/elisawem/). [[youtube](https://www.youtube.com/live/_2gnJjvodws?t=2293)]
+
+The Ethereum Global Network (EGN) is the peer-to-peer (P2P) network underlying Ethereum and thousands of subsequent blockchain services. Deviating from traditional single-service P2P networks, EGN's multi-service architecture has gained widespread acceptance for supposedly improving node discovery efficiency and security. This paper challenges this belief by critically examining EGN's design and its purported benefits.
 
 * **Selfish Mining Time-Averaged Analysis in Bitcoin: Is Orphan Reporting an Effective Countermeasure?** Roozbeh Sarenche, Ren Zhang, Svetla Nikova, and Bart Preneel. [IEEE TIFS](https://dl.acm.org/doi/10.1109/TIFS.2024.3518090). [[eprint](https://eprint.iacr.org/2024/363)]
 
